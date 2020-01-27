@@ -1,0 +1,14 @@
+.backgroundgrey{
+    background-color:lightgrey;
+}
+
+.solid{
+outline-style:solid;
+}
+
+.roundcorner {
+  border-radius: 25px;
+  background: lightblue;
+  padding: 20px;
+  width: 600px;
+  height: 150px;
